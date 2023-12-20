@@ -29,6 +29,15 @@ The workflow can be described as follows:
 - Outspread and skewness of quantity purchased and revenues are visualized leveraging matplotlib's box plot functions.
 - Revenue fluctuations over time are identified by calculating daily and projecting them through line plots to observe trends.
 - Empirical strategies are employed to detect outlier days (significantly high or low revenues) for further investigation.
+## Sample visuals based on exercise above
+####![Monthly Revenue Trend](https://github.com/Krisi/Data-Analysis-for-a-UK-Online-Retail-Store/Trend_monthly_revenue.png
+####![Revenue Box Plot](https://github.com/Krisi/boxplot_revenue.png
+####![Country Contibution to Total Revenue](https://github.com/Krisi/contribution to total revenue by country.png
+####![Histogram Daily Revenue](https://github.com/Krisi/histogram_daily revenue.png
+####![Top 10 Popular Items](https://github.com/Krisi/top_10_popularitems.png
+####![Top 10 items by Revenue](https://github.com/Krisi/top_items_by_revenue.png
+####![Correlation Yearly Revenue CPI](https://github.com/Krisi/yearly_revenue_cpi.png
+####![Correlaton Yearly UnitPrice CPI](https://github.com/Krisi/yearly_unitprice_cpi.png
 ## Use Cases:
 The script provides a comprehensive analysis of retail sales, catering to a variety of needs including retail businesses aiming for competent strategic decision-making, economize, and data analysts seeking to improve their understanding of retail markets. It navigates through raw data to extract meaningful information, delivers results through quantified operational metrics, visually portrays results for improved comprehension, and offers actionable insights for effective decision-making.
 ## Potential Applications
