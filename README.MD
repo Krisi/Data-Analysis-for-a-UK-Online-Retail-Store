@@ -31,8 +31,8 @@ The workflow can be described as follows:
 - Empirical strategies are employed to detect outlier days (significantly high or low revenues) for further investigation.
 ## Sample visuals based on exercise above
 ![Monthly Revenue Trend](https://github.com/Krisi/Data-Analysis-for-a-UK-Online-Retail-Store/blob/master/Trend_monthly_revenue.png)
-![Revenue Box Plot](https://github.com/Krisi/Data-Analysis-for-a-UK-Online-Retail-Store/blob/master/boxplot_revenue.png)
 ![Country Contibution to Total Revenue](https://github.com/Krisi/Data-Analysis-for-a-UK-Online-Retail-Store/blob/master/contribution_to_total_revenue_by_country.png)
+![Revenue Box Plot](https://github.com/Krisi/Data-Analysis-for-a-UK-Online-Retail-Store/blob/master/boxplot_revenue.png)
 ![Histogram Daily Revenue](https://github.com/Krisi/Data-Analysis-for-a-UK-Online-Retail-Store/blob/master/histogram_daily_revenue.png)
 ![Top 10 Popular Items](https://github.com/Krisi/Data-Analysis-for-a-UK-Online-Retail-Store/blob/master/top_10_popularitems.png)
 ![Top 10 items by Revenue](https://github.com/Krisi/Data-Analysis-for-a-UK-Online-Retail-Store/blob/master/top_items_by_revenue.png)
