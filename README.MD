@@ -54,3 +54,6 @@ Potential future analysis that can provide further strategic insights include:
 - Product Affinity and Recommendation: Use market basket analysis to understand which products are often purchased together, and develop a recommendation system to increase sales.
 - Geographical Revenue Analysis: Analyse revenue contributions based on regions to identify potential markets for expansion or to devise region-specific marketing strategies.
 Thank you for going through this README file to understand the workings of this analysis. The final deliverable is a set of actionable insights that can drive improved decision-making processes. For any further inquiries or suggestions, feel free to reach out
+
+![Country Contribution to Total Revenue](https://github.com/Krisi/Data-Analysis-for-a-UK-Online-Retail-Store/blob/master/country_contribution.png)
+![Histogram Daily Revenue](https://github.com/Krisi/Data-Analysis-for-a-UK-Online-Retail-Store/blob/master/histograph_daily_revenue.png)
