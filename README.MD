@@ -16,7 +16,7 @@ Operating in an intensely competitive online retail market requires data-driven 
 The workflow can be described as follows:
 - Retail and CPI data are loaded from Excel files using utils in pandas providing efficient data handling.
 - Clean up procedures are employed to ensure data integrity by removing duplicates, renaming ambiguous columns, and refining metadata. 
-- The scrubbed datasets based on 'Year', their common attribute, are merged to form a unified DataFrame, leading to cohesive analysis.
+- The scrubbed datasets based on 'Year', their common attribute, are merged to form a unified DataFrame, leading to cohesive analysis. ![Data Cleanup Process Ouput](https://github.com/Krisi/Data-Analysis-for-a-UK-Online-Retail-Store/blob/master/Datacleanup.png)
 - Descriptive analysis is performed using the unified DataFrame to provide statistical measures like mean, standard deviation, median, quartiles and correlation, offering insights into the central tendency and dispersion characteristics of the numerical variables.
 - The correlations between 'CPI' and 'Quantity' variables are explicitly computed, which reveal focused insights.
 - A summary of unique items is generated from the retail data using the 'Description' column, providing valuable information about the variety of items.
